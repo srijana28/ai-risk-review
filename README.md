@@ -51,6 +51,11 @@ As LLMs scale in capability and adoption, systematic risk evaluation and governa
 
 Despite these limitations, the findings highlight recurring risk patterns relevant for real-world AI deployment and policy discussion.
 
+##Policy Brief:
+
+You can read the full 1-page policy brief [here](https://drive.google.com/file/d/1f4gc4A5nwhL9LKLiVVHANXVzh0tqgtAQ/view?usp=drive_link).
+
+
 
 ## Author
 Srijana Gautam  
