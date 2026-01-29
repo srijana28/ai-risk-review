@@ -42,6 +42,16 @@ The goal is to evaluate real-world harms and propose actionable mitigation strat
 ## Why This Matters
 As LLMs scale in capability and adoption, systematic risk evaluation and governance become critical. This project aims to bridge technical evaluation with policy-relevant insights.
 
+## Notes & Limitations
+
+- This evaluation is based on manual testing and a limited prompt set.
+- Results are qualitative and illustrative rather than statistically exhaustive.
+- Model behavior may change over time due to updates and safety tuning.
+- Harmful content is summarized rather than reproduced to avoid amplification.
+
+Despite these limitations, the findings highlight recurring risk patterns relevant for real-world AI deployment and policy discussion.
+
+
 ## Author
 Srijana Gautam  
 CSE Undergraduate | AI & Responsible AI Research  
